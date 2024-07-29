@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ujjwal Choubey
 - 👀 I’m interested in DSA, WEB-DEV etcetra... 
-- 📫 How to reach me: E-mail - ujjwalc.ug23.cs@nitp.ac.in
+- 📫 How to reach me: E-mail - ujjwalakash11@gmail.com
 - 😄 Pronouns:byte_wizard
 - ⚡ Fun fact: melophile..⚡
 
