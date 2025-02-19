@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Ujjwal Choubey
-- 👀 I’m interested in DSA, WEB-DEV etcetra... 
+- 👀 Enthusiastic Competitve Programmer
+- ✨ DSA Lover
 - 📫 How to reach me: E-mail - ujjwalakash11@gmail.com
 - 😄 Pronouns:byte_wizard
 - ⚡ Fun fact: melophile..⚡
